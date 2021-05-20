@@ -1,0 +1,10 @@
+C:\Users\Aki\source\repos\MemoryGame1\MemoryGame1\bin\Debug\MemoryGame1.exe.config
+C:\Users\Aki\source\repos\MemoryGame1\MemoryGame1\bin\Debug\MemoryGame1.exe
+C:\Users\Aki\source\repos\MemoryGame1\MemoryGame1\bin\Debug\MemoryGame1.pdb
+C:\Users\Aki\source\repos\MemoryGame1\MemoryGame1\obj\Debug\MemoryGame1.csprojAssemblyReference.cache
+C:\Users\Aki\source\repos\MemoryGame1\MemoryGame1\obj\Debug\MemoryGame1.Properties.Resources.resources
+C:\Users\Aki\source\repos\MemoryGame1\MemoryGame1\obj\Debug\MemoryGame1.csproj.GenerateResource.cache
+C:\Users\Aki\source\repos\MemoryGame1\MemoryGame1\obj\Debug\MemoryGame1.csproj.CoreCompileInputs.cache
+C:\Users\Aki\source\repos\MemoryGame1\MemoryGame1\obj\Debug\MemoryGame1.exe
+C:\Users\Aki\source\repos\MemoryGame1\MemoryGame1\obj\Debug\MemoryGame1.pdb
+C:\Users\Aki\source\repos\MemoryGame1\MemoryGame1\obj\Debug\MemoryGame1.MemoryGame.resources
